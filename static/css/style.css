@@ -1,0 +1,25 @@
+.hud{
+    position: absolute;
+    width: 300px;
+    height: 400px;
+}
+.portrait{
+    position: absolute;
+    width: 300px;
+}
+.name{
+    position: absolute;
+    margin-top: 340px;
+    margin-left: 40px;
+    width: 230px;
+}
+.char{
+    position: absolute;
+    margin-left: 350px;
+}
+.selectChar{
+    cursor: pointer;
+}
+.mainImg{
+    width: 60%;
+}

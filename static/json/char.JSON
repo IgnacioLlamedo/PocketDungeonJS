@@ -1,0 +1,25 @@
+[
+    {
+        "hp": 5,
+        "id": "ShovelKnight"
+    },
+    {
+        "hp": 4,
+        "id": "ShieldKnight"
+    }
+    ,
+    {
+        "hp": 4,
+        "id": "SpecterKnight"
+    }
+    ,
+    {
+        "hp": 4,
+        "id": "PlagueKnight"
+    }
+    ,
+    {
+        "hp": 4,
+        "id": "KingKnight"
+    }
+]
